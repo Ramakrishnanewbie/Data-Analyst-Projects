@@ -25,10 +25,8 @@ Data-Analyst-Projects/
     ├── Presence_Insights/
     ├── Interactive_Sales_Dashboard/
     ├── IT_Expenditure_Dashboard/
-    ├── Beverage_Retailer_Dashboard/
-    ├── Supermarket_Sales_Dashboard/
-    ├── Sales_Report_Dashboard/
-    └── Apparel_Sales_Dashboard/
+    .
+    .
 ```
 
 Each project folder contains source files, comprehensive documentation, and detailed README files explaining the business context, methodology, and key insights.

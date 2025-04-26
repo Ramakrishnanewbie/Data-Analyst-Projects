@@ -150,3 +150,5 @@ Feel free to reach out with questions, feedback, or collaboration opportunities:
 - **Portfolio Website**: [Portfolio Website](www.ramakrishnachavali.com)
 
 Thank you for exploring my data analysis portfolio!
+
+Point to note : This was a protfolio build by taking inspiration from many github profiles. So, I am giving due credit to everyone who helpped me with their data. Thankyou so much !

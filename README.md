@@ -1,10 +1,10 @@
-# Data Analysis Portfolio
+# Data Analyst Portfolio
 
 ## Portfolio Overview
 
-Welcome to my Data Analysis Portfolio! This repository showcases my journey in transforming raw data into actionable business insights using Microsoft Excel and Power BI. Through these projects, I demonstrate my analytical thinking, technical proficiency, and ability to communicate data-driven findings that support strategic decision-making.
+Welcome to my Data Analyst Portfolio! This repository showcases my expertise in transforming complex data into actionable business insights using Microsoft Excel and Power BI. Through these diverse projects, I demonstrate my analytical thinking, technical proficiency, and ability to communicate data-driven findings that drive strategic decision-making across various industries.
 
-My passion for data analysis began when I realized how properly analyzed information can reveal hidden patterns and opportunities that fundamentally change how businesses operate. Each project in this portfolio represents a real-world business challenge that I've approached with a structured analytical methodology, resulting in clear visualizations and actionable recommendations.
+My data analysis journey began when I discovered how properly analyzed information can reveal hidden patterns and opportunities that fundamentally change business operations. What started as simple curiosity evolved into a passion for creating comprehensive analytical solutions that help organizations make more informed decisions. Each project in this portfolio represents a real-world business challenge I've tackled using a structured methodology, resulting in clear visualizations and actionable recommendations.
 
 ## Repository Structure
 
@@ -21,12 +21,17 @@ Data-Analyst-Projects/
 │   └── Amazon_Sales_Analysis/
 │
 └── PowerBI/
-    ├── Project_1/
-    ├── Project_2/
-    └── Project_3/
+    ├── Finance_Dashboard/
+    ├── Presence_Insights/
+    ├── Interactive_Sales_Dashboard/
+    ├── IT_Expenditure_Dashboard/
+    ├── Beverage_Retailer_Dashboard/
+    ├── Supermarket_Sales_Dashboard/
+    ├── Sales_Report_Dashboard/
+    └── Apparel_Sales_Dashboard/
 ```
 
-Each project folder contains the source files, documentation, and README files with detailed explanations of the business context, methodology, and insights.
+Each project folder contains source files, comprehensive documentation, and detailed README files explaining the business context, methodology, and key insights.
 
 ## Skills Demonstrated
 
@@ -67,7 +72,7 @@ A detailed analysis of an online retail business, including customer behavior, p
 ### [Coffee Orders Dashboard](./Excel/Coffee_Sales)
 An interactive dashboard providing insights into coffee order patterns and customer preferences. This project highlights my ability to create user-friendly visualizations that tell a data story.
 
-### [Bike Sales Analysis](./Excel/Bike_Sales_Project)
+### [Bike Sales Analysis](./Excel/Bike_Sales_Analysis)
 An in-depth analysis of factors influencing bicycle purchases across different demographic segments. This project demonstrates my customer segmentation and market analysis capabilities.
 
 ### [Amazon Sales Analysis](./Excel/Amazon_Sales)
@@ -75,14 +80,17 @@ A comprehensive analysis of Amazon marketplace sales data, including product per
 
 ## Power BI Projects
 
-### [Project 1 Title](./PowerBI/Project_1)
-Brief description of the first Power BI project.
+### [Personal Finance Dashboard](./PowerBI/Finance_Dashboard)
+An elegant financial management tool that provides clear visibility into income, expenses, and savings patterns. This dashboard leverages advanced DAX measures to track spending across categories like house rent, groceries, and EMIs while monitoring savings allocations to mutual funds and emergency funds.
 
-### [Project 2 Title](./PowerBI/Project_2)
-Brief description of the second Power BI project.
+### [HR Analytics  Dashboard](./PowerBI/HR_Analytics_Dashboard)
+A sophisticated workforce analytics solution that transforms attendance data into actionable insights about employee work patterns. With a presence rate of 91.83%, WFH utilization of 10%, and sick leave tracking of 1.10%, this dashboard helps managers understand team availability and remote work adoption patterns.
 
-### [Project 3 Title](./PowerBI/Project_3)
-Brief description of the third Power BI project.
+### [Interactive Sales Dashboard](./PowerBI/Interactive_Sales_Dashboard)
+A comprehensive sales performance tool enabling multidimensional analysis of $96.62M in revenue and 1.123M units sold. This dashboard features intuitive filtering by product ID, employee, supervisor, and date range, with powerful visualizations showing revenue trends, product performance, and employee contributions.
+
+### [IT Expenditure Dashboard](./PowerBI/IT_Expenditure_Dashboard)
+A detailed financial analysis solution providing transparency into technology spending across business units and geographies. This dashboard tracks $555.7M in actual expenditures against $890.5M in forecasts, with variance analysis by cost element and country, enabling better budget management and resource allocation.
 
 ## Data Analysis Approach
 
@@ -138,7 +146,7 @@ I'm continuously expanding this portfolio with new projects that showcase additi
 Feel free to reach out with questions, feedback, or collaboration opportunities:
 
 - **Email**: [E-Mail](mailto:chavali.r@northeastern.edu)
-- **LinkedIn**: [Rama Krishna Chavali](https://www.linkedin.com/in/ramakrishna-chavali/)
-- **Portfolio Website**: [Portfolio](www.ramakrishnachavali.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ramakrishna-chavali/)
+- **Portfolio Website**: [Portfolio Website](www.ramakrishnachavali.com)
 
 Thank you for exploring my data analysis portfolio!

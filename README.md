@@ -1,10 +1,20 @@
 # Data Analyst Portfolio
 
-## Portfolio Overview
+Business analyses built end to end in Excel, SQL, and Power BI: raw dataset in,
+dashboard and written findings out.
 
-Welcome to my Data Analyst Portfolio! This repository showcases my expertise in transforming complex data into actionable business insights using Microsoft Excel and Power BI. Through these diverse projects, I demonstrate my analytical thinking, technical proficiency, and ability to communicate data-driven findings that drive strategic decision-making across various industries.
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://dev.mysql.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E.svg)](LICENSE)
 
-My data analysis journey began when I discovered how properly analyzed information can reveal hidden patterns and opportunities that fundamentally change business operations. What started as simple curiosity evolved into a passion for creating comprehensive analytical solutions that help organizations make more informed decisions. Each project in this portfolio represents a real-world business challenge I've tackled using a structured methodology, resulting in clear visualizations and actionable recommendations.
+Each project starts from a raw dataset, models it, and ends in a dashboard
+answering a specific question. The write-up in each folder covers the question,
+what the data showed, and what to do about it.
+
+> **Related repo.** [`Excel_Projects`](https://github.com/rk-chavali/Excel_Projects)
+> holds a subset of the Excel work here. **This is the canonical collection** and
+> the better place to start.
 
 ## Repository Structure
 
